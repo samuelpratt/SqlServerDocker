@@ -16,7 +16,7 @@ docker-compose up -d
 
 ## Passwords
 
-Yes, these are checked in. Yes, this is all running on SA, Yes, I know it's not a good idea IRL. No, it doesn't matter in this case, this is for quick knock-around type stuff.
+Yes, these are checked in. Yes, this is all running on SA. Yes, I know it's not a good idea IRL. No, it doesn't matter in this case: this is for quick knock-around type stuff.
 
 ## Set DB Name
 
