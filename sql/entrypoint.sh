@@ -1,6 +1,8 @@
 #!/bin/bash
 wait_time=15s
-password=P@55w0rd
+# Yes, this is a bad idea. No, I don't care.
+# This isn't for anything important, don't do this in prod people!
+password=P@55w0rd 
 
 # wait for SQL Server to come up
 echo importing data will start in $wait_time...
